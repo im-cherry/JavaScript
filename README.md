@@ -48,12 +48,10 @@ _[Summary](./00%20Summary.md)_
 - Modules
 - Class
 - Error
-- 정규 표현식(Regular Expression)
 
 #### 4. [Rest API](./04%20Rest%20API.md)
 
 - REST API
-- JSON 서버 사용하기
 
 #### 5. [자바스크립트 HTML DOM](./05%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20HTML%20DOM.md)
 
