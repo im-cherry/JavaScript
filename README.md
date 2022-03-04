@@ -82,9 +82,9 @@
 
 ### 스터디 일정
 
-| 공부 내용                     | 반복 횟수 | 날짜     | 완료여부 |
-| :---------------------------- | :-------: | :------- | :-------: |
-| 1. 자바스크립트 기본 문법     |     1     | 22.03.05 | :white_check_mark: |
+| 공부 내용                     | 반복 횟수 | 날짜     |       완료여부       |
+| :---------------------------- | :-------: | :------- | :------------------: |
+| 1. 자바스크립트 기본 문법     |     1     | 22.03.05 |  :white_check_mark:  |
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
 |                               |     4     | 22.04.05 | :white_large_square: |
@@ -100,19 +100,19 @@
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
 |                               |     4     | 22.04.05 | :white_large_square: |
-| 5. 자바스크립트 HTML DOM      |     1     | 22.00.00 | :white_large_square: |
-|                               |     2     | 22.00.00 | :white_large_square: |
-|                               |     3     | 22.00.00 | :white_large_square: |
+| 5. 자바스크립트 HTML DOM      |     1     | 22.03.06 | :white_large_square: |
+|                               |     2     | 22.03.07 | :white_large_square: |
+|                               |     3     | 22.03.13 | :white_large_square: |
 |                               |     4     | 22.00.00 | :white_large_square: |
-| 6. 자바스크립트의 메모리 관리 |     1     | 22.00.00 | :white_large_square: |
-|                               |     2     | 22.00.00 | :white_large_square: |
-|                               |     3     | 22.00.00 | :white_large_square: |
-|                               |     4     | 22.00.00 | :white_large_square: |
-| 7. 자바스크립트 주요 Web APIs |     1     | 22.00.00 | :white_large_square: |
-|                               |     2     | 22.00.00 | :white_large_square: |
-|                               |     3     | 22.00.00 | :white_large_square: |
-|                               |     4     | 22.00.00 | :white_large_square: |
-| 8. 브라우저의 렌더링 과정     |     1     | 22.00.00 | :white_large_square: |
-|                               |     2     | 22.00.00 | :white_large_square: |
-|                               |     3     | 22.00.00 | :white_large_square: |
-|                               |     4     | 22.00.00 | :white_large_square: |
+| 6. 자바스크립트의 메모리 관리 |     1     | 22.03.06 | :white_large_square: |
+|                               |     2     | 22.03.07 | :white_large_square: |
+|                               |     3     | 22.03.13 | :white_large_square: |
+|                               |     4     | 22.04.06 | :white_large_square: |
+| 7. 자바스크립트 주요 Web APIs |     1     | 22.03.06 | :white_large_square: |
+|                               |     2     | 22.03.07 | :white_large_square: |
+|                               |     3     | 22.03.13 | :white_large_square: |
+|                               |     4     | 22.04.06 | :white_large_square: |
+| 8. 브라우저의 렌더링 과정     |     1     | 22.03.06 | :white_large_square: |
+|                               |     2     | 22.03.07 | :white_large_square: |
+|                               |     3     | 22.03.13 | :white_large_square: |
+|                               |     4     | 22.04.06 | :white_large_square: |
