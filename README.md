@@ -87,32 +87,32 @@ _[Summary](./00%20Summary.md)_
 | 1. 자바스크립트 기본 문법     |     1     | 22.03.05 |  :white_check_mark:  |
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
-|                               |     4     | 22.04.05 | :white_large_square: |
-| 2. 자바스크립트 내장 객체     |     1     | 22.03.05 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 2. 자바스크립트 내장 객체     |     1     | 22.03.05 | :white_check_mark: |
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
-|                               |     4     | 22.04.05 | :white_large_square: |
-| 3. 자바스크립트 고급 문법     |     1     | 22.03.05 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 3. 자바스크립트 고급 문법     |     1     | 22.03.05 | :white_check_mark: |
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
-|                               |     4     | 22.04.05 | :white_large_square: |
-| 4. Rest API                   |     1     | 22.03.05 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 4. Rest API                   |     1     | 22.03.05 | :white_check_mark: |
 |                               |     2     | 22.03.06 | :white_large_square: |
 |                               |     3     | 22.03.12 | :white_large_square: |
-|                               |     4     | 22.04.05 | :white_large_square: |
-| 5. 자바스크립트 HTML DOM      |     1     | 22.03.06 | :white_large_square: |
-|                               |     2     | 22.03.07 | :white_large_square: |
-|                               |     3     | 22.03.13 | :white_large_square: |
-|                               |     4     | 22.00.00 | :white_large_square: |
-| 6. 자바스크립트의 메모리 관리 |     1     | 22.03.06 | :white_large_square: |
-|                               |     2     | 22.03.07 | :white_large_square: |
-|                               |     3     | 22.03.13 | :white_large_square: |
-|                               |     4     | 22.04.06 | :white_large_square: |
-| 7. 자바스크립트 주요 Web APIs |     1     | 22.03.06 | :white_large_square: |
-|                               |     2     | 22.03.07 | :white_large_square: |
-|                               |     3     | 22.03.13 | :white_large_square: |
-|                               |     4     | 22.04.06 | :white_large_square: |
-| 8. 브라우저의 렌더링 과정     |     1     | 22.03.06 | :white_large_square: |
-|                               |     2     | 22.03.07 | :white_large_square: |
-|                               |     3     | 22.03.13 | :white_large_square: |
-|                               |     4     | 22.04.06 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 5. 자바스크립트 HTML DOM      |     1     | 22.03.05 | :white_check_mark: |
+|                               |     2     | 22.03.06 | :white_large_square: |
+|                               |     3     | 22.03.12 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 6. 자바스크립트의 메모리 관리 |     1     | 22.03.05 | :white_check_mark: |
+|                               |     2     | 22.03.06 | :white_large_square: |
+|                               |     3     | 22.03.12 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 7. 자바스크립트 주요 Web APIs |     1     | 22.03.05 | :white_check_mark: |
+|                               |     2     | 22.03.06 | :white_large_square: |
+|                               |     3     | 22.03.12 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
+| 8. 브라우저의 렌더링 과정     |     1     | 22.03.05 | :white_check_mark: |
+|                               |     2     | 22.03.06 | :white_large_square: |
+|                               |     3     | 22.03.12 | :white_large_square: |
+|                               |     4     | 22.04.02 | :white_large_square: |
