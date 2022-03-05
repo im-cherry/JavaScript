@@ -10,7 +10,7 @@
 
 자바스크립트는 HTML 문서의 모든 요소에 접근하여 변경할 수 있습니다. 사용자가 웹 페이지에 접근하면 웹 페이지가 로드되면서 브라우저는 웹 페이지에 대한 DOM을 생성하게 됩니다.
 
-![그래프](https://user-images.githubusercontent.com/100753621/156879276-ec91ae47-2478-450a-9aad-aa28a6bae21d.png)
+<img src="https://user-images.githubusercontent.com/100753621/156879276-ec91ae47-2478-450a-9aad-aa28a6bae21d.png" alt="그래프" width="500px">
 
 ### 1. DOM Element
 
